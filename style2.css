@@ -1,0 +1,25 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    
+}
+header{
+    background: rgb(196, 178, 178);
+    padding: 19px;
+    padding-bottom: 19px;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin-right: 30px;
+}
+a{
+    text-decoration: none;
+    color: chartreuse;
+    font-size: 14px;
+}
